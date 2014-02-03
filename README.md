@@ -1,0 +1,4 @@
+Statictest
+==========
+
+statictest
